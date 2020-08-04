@@ -1,0 +1,10 @@
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\bin\Debug\Nexus-Browser.exe.config
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\bin\Debug\Nexus-Browser.exe
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\bin\Debug\Nexus-Browser.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\obj\Debug\Nexus-Browser.csprojAssemblyReference.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\obj\Debug\Nexus_Browser.Form1.resources
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\obj\Debug\Nexus_Browser.Properties.Resources.resources
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\obj\Debug\Nexus-Browser.csproj.GenerateResource.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\obj\Debug\Nexus-Browser.csproj.CoreCompileInputs.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\obj\Debug\Nexus-Browser.exe
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Browser\Nexus-Browser\obj\Debug\Nexus-Browser.pdb
