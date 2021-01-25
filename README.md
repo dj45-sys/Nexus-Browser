@@ -1,1 +1,3 @@
-My new proyect  Nexus-Browser  open source  was written 100% in C# 
+# NeXus Browser
+---
+This is an experiment writed in C#
